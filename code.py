@@ -300,7 +300,7 @@ for epoch in range(epochs):
             
         thetaminus = theta.copy()
         thetaminus[i] -= eps
-        lossminus = loss(thetaminus, X1, Y1)
+        lossminus = loss(thetaminus, X2, Y2)
             
         grad[i] = (lossplus - lossminus) / (2 * eps)
             
