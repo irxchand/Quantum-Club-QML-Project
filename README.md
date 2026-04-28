@@ -157,9 +157,9 @@ python "qml gen.py"
 
 ## Author
 
--Ishaan Chand
--Dharmit Shah
--Atharva Ambilwade
--Yashasv Khullar
+- Ishaan Chand
+- Dharmit Shah
+- Atharva Ambilwade
+- Yashasv Khullar
 
 ---
